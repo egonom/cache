@@ -1,5 +1,5 @@
 {
-    "name": "egonom/cache",
+    "name": "egonom/simplecache",
     "description": "simple cache",
     "minimum-stability": "dev",
     "license": "MIT",

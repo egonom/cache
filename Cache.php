@@ -1,6 +1,7 @@
 <?php
-namespace egonom\cache;
-use egonom\cache\driver\Cacheuserfile;
+namespace egonom\simplecache;
+
+use egonom\simplecache\driver\Cacheuserfile;
 use Slim\Slim;
 
 class Cache {
