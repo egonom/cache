@@ -1,0 +1,11 @@
+{
+    "name": "egonom/cache",
+    "description": "simple cache",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "egonom"
+        }
+    ]
+}
