@@ -1,5 +1,5 @@
 <?php
-namespace egonom\simplecache\cache\driver;
+namespace egonom\simplecache\driver;
 
 class Cacheuserfile {
 

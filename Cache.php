@@ -274,7 +274,7 @@ class Cache {
 
 		if ( ! isset($support[$driver]))
 		{
-			$classname = 'App\\driver\\Cache'.$driver;
+			$classname = 'egonom\\simplecache\\driver\\Cache'.$driver;
 			$cache_driver = new $classname();
 
 			$this->{$driver} = $cache_driver;
